@@ -54,17 +54,17 @@ then executing the command python manage.py runserver
 
 in the link api/users/api/token proviedr the username and password got the response refresh and access
 
-![alt text](image.png)
+![alt text](scrnsht/image.png)
 
 
 for invalid username and password
 
-![alt text](image-1.png)
+![alt text](scrnsht/image-1.png)
 
 in the token/refresh if we give the refesh value got from token it will give a new token
 
-![alt text](image-2.png)
+![alt text](scrnsht/image-2.png)
 
 in the token/verify if we give the access value and POST it will give the success message
 
-![alt text](image-3.png)
+![alt text](scrnsht/image-3.png)
